@@ -37,10 +37,15 @@ Or download it as a ZIP and extract it.
 ## 📁 Folder Structure
 
 read-aloud-extension/
+
 ├── manifest.json
+
 ├── popup.html
+
 ├── popup.js
-├── popup.css  
+
+├── popup.css
+
 ├── icon.png
 
 ---
