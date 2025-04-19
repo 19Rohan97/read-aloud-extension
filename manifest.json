@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Read Aloud Selected Text",
+  "version": "1.1",
+  "description": "Reads aloud the text you highlight on any page.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Read Aloud Tool"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
